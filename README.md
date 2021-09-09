@@ -1,7 +1,7 @@
 # Hi there 👋    
 
-## This is my recommendation for you to look my repositories...   
-## there are [first](https://github.com/almuqsitalif08/MyLearningProgress) and [second](https://github.com/almuqsitalif08/MyLinkWebsite_MyLinkApp).    
+## My Learning Progress Repositories [here](https://github.com/almuqsitalif08/MyLearningProgress)     
+## My Website Link Repositories [here](https://github.com/almuqsitalif08/MyLinkWebsite_MyLinkApp)    
 <br>
 <p align="left">
 <a href="https://github.com/almuqsitalif08">
