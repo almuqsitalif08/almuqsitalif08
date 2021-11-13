@@ -3,12 +3,6 @@
 ## My Learning Progress Repositories [here](https://github.com/almuqsitalif08/MyLearningProgress)     
 ## My Website Link Repositories [here](https://github.com/almuqsitalif08/MyLinkWebsite_MyLinkApp)    
 <br>
-<p align="left">
-<a href="https://github.com/almuqsitalif08">
-  <img width="360em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=almuqsitalif08&layout=compact&langs_count=10&theme=algolia"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=almuqsitalif08&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>   
-</a>
-</p>
 <p>
 🌱 I’m currently learning in Computer System at Universitas Sriwijaya
 </p>
