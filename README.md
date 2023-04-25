@@ -4,7 +4,7 @@
 ## My Website Link Repositories [here](https://github.com/almuqsitalif08/MyLinkWebsite_MyLinkApp)    
 <br>
 <p>
-🌱 I’m currently learning in Computer System at Universitas Sriwijaya
+🌱 I've Graduated in Computer System at Universitas Sriwijaya
 </p>
 <a href="https://www.linkedin.com/in/almuqsitalif08/">
   <img width="20em" src="https://github.com/almuqsitalif08/almuqsitalif08/blob/main/assets/LinkedIn_logo_initials.png"/>
